@@ -1,0 +1,14 @@
+{
+    "CC01": {
+        "text": "George Washington was the first pres",
+        "cloze": "Washington",
+        "partial": "George _____ was the first pres",
+        "fullText": "George Washington was the first pres"
+    },
+    "CC02": {
+        "text": "The current pres is Donald Trump",
+        "cloze": "Donald",
+        "partial": "The current pres is _____ Trump",
+        "fullText": "The current pres is Donald Trump"
+    }
+}
